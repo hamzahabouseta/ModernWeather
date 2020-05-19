@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ModernWeather/static/css/main.ded72340.chunk.css",
+    "main.js": "/ModernWeather/static/js/main.4f17c43b.chunk.js",
+    "main.js.map": "/ModernWeather/static/js/main.4f17c43b.chunk.js.map",
+    "runtime-main.js": "/ModernWeather/static/js/runtime-main.39ac2a3d.js",
+    "runtime-main.js.map": "/ModernWeather/static/js/runtime-main.39ac2a3d.js.map",
+    "static/js/2.71028041.chunk.js": "/ModernWeather/static/js/2.71028041.chunk.js",
+    "static/js/2.71028041.chunk.js.map": "/ModernWeather/static/js/2.71028041.chunk.js.map",
+    "index.html": "/ModernWeather/index.html",
+    "precache-manifest.e5cfa9d24101c57c88af2b2574da3ecd.js": "/ModernWeather/precache-manifest.e5cfa9d24101c57c88af2b2574da3ecd.js",
+    "service-worker.js": "/ModernWeather/service-worker.js",
+    "static/css/main.ded72340.chunk.css.map": "/ModernWeather/static/css/main.ded72340.chunk.css.map",
+    "static/js/2.71028041.chunk.js.LICENSE.txt": "/ModernWeather/static/js/2.71028041.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ModernWeather/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ac2a3d.js",
+    "static/js/2.71028041.chunk.js",
+    "static/css/main.ded72340.chunk.css",
+    "static/js/main.4f17c43b.chunk.js"
+  ]
+}
